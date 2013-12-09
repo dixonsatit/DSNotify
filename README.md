@@ -3,5 +3,5 @@ DSNotify
 
 Yii Notification extension
 
-Resources <br/>
+Resources 
 (noty) http://needim.github.io/noty/#theme
